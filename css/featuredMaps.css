@@ -1,0 +1,35 @@
+#miragebg {
+	background-image: url("../img/mirage.jpg");
+}
+#cachebg {
+	background-image: url("../img/cache.jpg");
+}
+#overpassbg {
+	background-image: url("../img/overpass.jpg");
+}
+#trainbg {
+	background-image: url("../img/train.jpg");
+}
+html, body{
+	height: 100%;
+    background-color: #2d2d30;
+}
+.container-fluid {
+	height: 100%;
+}
+.featuredMap {
+	height: 90%;
+	opacity: 0.7; 
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+.featuredMap h3 {
+	color:#FFFFFF;
+	font-size: 40px;
+}
+.featuredMap:hover { 
+  opacity: 1; 
+}
+.row {
+	height: 100%;
+}

@@ -1,0 +1,20 @@
+#mainSection {
+	color: #DDDDDD;
+}
+.stratList ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+.stratList ul a li{
+	padding-top: 6px;
+	padding-bottom: 6px;
+	color: #DDDDDD;
+	opacity: 0.9;
+}
+.stratList ul a{
+	text-decoration:none;
+}
+.stratList ul a li:hover{
+	opacity: 1.0;
+}
